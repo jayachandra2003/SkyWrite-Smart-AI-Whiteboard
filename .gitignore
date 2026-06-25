@@ -6,6 +6,9 @@ __pycache__/
 # Virtual environment
 sky_env/
 
+# Temporary or generated images
+drawing_*.png
+
 # Windows file metadata
 Thumbs.db
 Desktop.ini
