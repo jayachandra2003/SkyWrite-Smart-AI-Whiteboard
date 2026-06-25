@@ -1,0 +1,5 @@
+opencv-python
+mediapipe==0.10.11
+tensorflow==2.15.0
+Pillow
+protobuf==3.20.3
