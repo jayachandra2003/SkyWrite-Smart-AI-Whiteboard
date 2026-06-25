@@ -56,8 +56,4 @@ git branch -M main
 git push -u origin main
 ```
 
-## Optional Improvements
 
-- Add more documentation for app controls and gestures.
-- Add a lighter configuration file for model paths.
-- Publish the EMNIST model file externally if the GitHub repo must stay small.
